@@ -1,6 +1,6 @@
 cask "voicetree" do
-  version "1.7.6"
-  sha256 "0153a31624c0727a3f8d7fd172fa5b9c500eb2da26151312b888aa979a02fcb8"
+  version "1.7.8"
+  sha256 "d9aeeab4f4d8f5fabf4c99296933e96c65699ed86913a7befc8d0b305780309f"
 
   url "https://github.com/voicetreelab/voicetree/releases/download/v#{version}/voicetree.dmg"
   name "VoiceTree"
