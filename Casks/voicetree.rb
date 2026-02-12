@@ -1,13 +1,13 @@
 cask "voicetree" do
-  version "2.6.1"
+  version "2.6.2"
 
   on_arm do
-    sha256 "0d600b7336cafffd28f682052b81857f63ed4aa9dabbcb2c2eb61d3671d2a01d"
+    sha256 "61444b368b7e83b460a17951692c37d5d71a0e160016c37b4279f3d08eeb7d21"
     url "https://github.com/voicetreelab/voicetree/releases/download/v#{version}/voicetree-arm64.dmg"
   end
 
   on_intel do
-    sha256 "1bd2f1466f3cff3a6a474fc951ce07f527cd3b211f88812c464afb1837a40f51"
+    sha256 "3426819d4c4f22ccd75bcc3018e6cb4577dfb9f7688d79f4a61f6592ae52ca3c"
     url "https://github.com/voicetreelab/voicetree/releases/download/v#{version}/voicetree-x64.dmg"
   end
 
